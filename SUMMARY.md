@@ -4,7 +4,9 @@
 
 ## Guides
 
-* [Getting Started](guides/getting-started.md)
+* [Getting Started](guides/getting-started/README.md)
+  * [Change Language](guides/getting-started/change-language.md)
+  * [Help Files](guides/getting-started/help-files.md)
 * [Program Tools](guides/program-tools/README.md)
   * [Label Stata](guides/program-tools/label-stata.md)
 * [Academic Tools](guides/academic-tools/README.md)

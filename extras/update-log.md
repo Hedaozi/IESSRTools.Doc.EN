@@ -1,5 +1,11 @@
 # Update Log
 
+### Version 0.0.2.1, October 27, 2021
+
+* Multi-Languages Support
+* Reorganize GUI
+* Add Chinese Documentation
+
 ### Version 0.0.2, October 23, 2021
 
 * Add "Follow Journal" tools.

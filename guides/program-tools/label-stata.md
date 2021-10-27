@@ -1,16 +1,10 @@
----
-description: >-
-  Import variables label table and value-labels table, then generate Stata code
-  of the labelling operations.
----
-
 # Label Stata
 
 ## Getting Started
 
-The tool is under the "Program" tab. Click "Launch" to launch the tool.
+The tool is under the "Application" tab. Click "Launch" to launch the tool.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](../../.gitbook/assets/LabelStata1.png)
 
 ## Usage
 
@@ -30,11 +24,15 @@ The names of sheets and columns are arbitrary.
 **Each sheet must contain a heading row.**
 {% endhint %}
 
+{% hint style="info" %}
+If you are still confused about the content of .xlsx file, you can see a demo by clicking "Use Demo" located under menu item "Files".
+{% endhint %}
+
 ### Step 1 Import .xlsx File
 
 Click "Files -> Import" to import the .xlsx file.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/LabelStata2.png)
 
 {% hint style="info" %}
 Please ensure the file is not opened by other process, especially Microsoft Excel.
@@ -44,13 +42,15 @@ Please ensure the file is not opened by other process, especially Microsoft Exce
 
 Choose sheets and columns.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](../../.gitbook/assets/LabelStata3.png)
 
 ### Step 3 Generate Stata Command
 
 Click "Generate -> Stata Command" to generate Stata command. After that, you will see a window which is shown below. Click "Save As" to save the command into a local .do file.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](../../.gitbook/assets/LabelStata4.png)
+
+![](../../.gitbook/assets/LabelStata5.png)
 
 {% hint style="info" %}
 You can edit Stata command is this window. And all your change will save to file when you click "Save As" to save the command.

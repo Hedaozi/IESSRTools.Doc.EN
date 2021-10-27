@@ -8,12 +8,14 @@ description: >-
 
 ## Getting Started
 
-The tool is under the "Academic" tab. Click "Launch" to launch the tool.
+The tool is under the "Application" tab. Click "Launch" to launch the tool.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](../../.gitbook/assets/FollowJournal1.png)
 
 ## Usage
 
 Type the journal's name and choose a search provider. Click "Search" button on the menu bar, then the query result will be shown in your default browser.
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/FollowJournal2.png)
+
+![](../../.gitbook/assets/FollowJournal3.png)
